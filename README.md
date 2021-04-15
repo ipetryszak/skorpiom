@@ -1,19 +1,10 @@
 ### Hi there 👋
 
 🔭 I’m currently working on Heroes Angular Project (integrated with Marvel API)
-
-    Figma:
-    
-       https://www.figma.com/file/7tkPZ8fatdIHIyTLYJzA2d/Marvel?node-id=0%3A1
-       
-    GitHub:
-    
-       https://github.com/skorpiom/TourOfHeroes
-       
-    Deployment:
-    
-       https://skorpiom.github.io/TourOfHeroes/
-
+   * [DEMO](https://skorpiom.github.io/TourOfHeroes/)
+   * [CODE](https://github.com/skorpiom/TourOfHeroes)
+   * [FIGMA](https://www.figma.com/file/7tkPZ8fatdIHIyTLYJzA2d/Marvel?node-id=0%3A1)
+   
 🌱 I’m currently learning Angular and React
 
 👯 I’m looking to collaborate on something exciting
@@ -24,8 +15,13 @@
 - NodeJS
 
 ## Projects I contributed to:
-- Fit not Fat (https://github.com/KrystianKjjk/CodersCamp2020.Project.TypeScript.FitNotFat)
-- Organization App (https://github.com/KrystianKjjk/CodersCamp2020.Project.FullStack-Node-React.OrganizationApp)
+- Organization App 
+    * [CODE](https://github.com/KrystianKjjk/CodersCamp2020.Project.FullStack-Node-React.OrganizationApp)
+    * [DEMO](https://quirky-minsky-7671f3.netlify.app)
+    
+- FitNotFat 
+    * [CODE](https://github.com/KrystianKjjk/CodersCamp2020.Project.TypeScript.FitNotFat)
+    * [DEMO](https://krystiankjjk.github.io/CodersCamp2020.Project.TypeScript.FitNotFat)
 
 
 
