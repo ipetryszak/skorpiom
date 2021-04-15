@@ -1,14 +1,26 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Heroes Angular Project
+🔭 I’m currently working on Heroes Angular Project (integrated with Marvel API)
+
+    Figma:
+    
+       https://www.figma.com/file/7tkPZ8fatdIHIyTLYJzA2d/Marvel?node-id=0%3A1
+       
+    GitHub:
+    
+       https://github.com/skorpiom/TourOfHeroes
+       
+    Deployment:
+    
+       https://skorpiom.github.io/TourOfHeroes/
 
 🌱 I’m currently learning Angular and React
 
 👯 I’m looking to collaborate on something exciting
 
 ## Technologies I work with: 
-- HTML, CSS, JS
-- Angular, React
+- HTML, SCSS (BEM), JS
+- Angular, ReactJS
 - NodeJS
 
 ## Projects I contributed to:
