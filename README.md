@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Heroes Angular Project (integrated with Marvel API)
-   * [DEMO](https://skorpiom.github.io/TourOfHeroes/)
-   * [CODE](https://github.com/skorpiom/TourOfHeroes)
-   * [FIGMA](https://www.figma.com/file/7tkPZ8fatdIHIyTLYJzA2d/Marvel?node-id=0%3A1)
+🔭 I’m currently working on [React (&Redux) Courses Management App](https://github.com/skorpiom/CoursesManagement)
    
-🌱 I’m currently learning Angular and React
+🌱 I’m currently learning Redux
 
 👯 I’m looking to collaborate on something exciting
 
 ## Technologies I work with: 
-- HTML, SCSS (BEM), JS
-- Angular, ReactJS
+- HTML, SCSS (BEM), JS, TS
+- ReactJS
 - NodeJS
 
 ## Projects I contributed to:
