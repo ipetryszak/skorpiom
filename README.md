@@ -19,7 +19,10 @@
 - FitNotFat 
     * [CODE](https://github.com/KrystianKjjk/CodersCamp2020.Project.TypeScript.FitNotFat)
     * [DEMO](https://krystiankjjk.github.io/CodersCamp2020.Project.TypeScript.FitNotFat)
-
+    * 
+- StarWarsQuiz
+    * [CODE](https://github.com/KrystianKjjk/CodersCamp2020.Project.JavaScript.StarWarsQuiz)
+    * [DEMO](https://krystiankjjk.github.io/CodersCamp2020.Project.JavaScript.StarWarsQuiz)
 
 
 
